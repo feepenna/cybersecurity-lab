@@ -32,6 +32,7 @@ Esse lab existe para preencher essa lacuna — um ambiente onde é possível que
                               │      Dashboard)    │
                               └────────────────────┘
 
+Lenovo LOQ -> 
 ## ⚙️ Stack
 
 - **SO:** Fedora Server
