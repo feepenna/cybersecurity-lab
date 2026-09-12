@@ -22,9 +22,8 @@ Esse lab existe para preencher essa lacuna — um ambiente onde é possível que
 
 ## 🏗️ Arquitetura
 
-| Lenovo LOQ | ◄───────► | Dell Inspiron |
-|  Analista  |           | Fedora Server |
-                         | Docker Compose|
+
+
 ## ⚙️ Stack
 
 - **SO:** Fedora Server
