@@ -22,7 +22,7 @@ Esse lab existe para preencher essa lacuna — um ambiente onde é possível que
 
 ## 🏗️ Arquitetura
 
-![Arquitetura do lab](cybersecurity-lab/diagrama_serverf.jpeg)
+[Arquitetura do lab](cybersecurity-lab/diagrama_serverf.jpeg)
 
 ## ⚙️ Stack
 
