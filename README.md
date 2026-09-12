@@ -35,7 +35,7 @@ Ecossistema já em uso no notebook principal, gerenciador de pacotes DNF com res
 
 ### Por que Docker e não VMs?
 Hardware modesto não comporta múltiplas VMs. Além disso, containers compartilham o kernel do host — o que oferece uma via direta pra estudar Linux internals (processos, namespaces, cgroups). Windows é exceção, roda em VM via VirtualBox por limitação de kernel compartilhado.
-,,,
+
 ## 📂 Documentação detalhada
 
 - [Setup Docker]()
