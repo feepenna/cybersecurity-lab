@@ -54,6 +54,3 @@ Hardware modesto não comporta múltiplas VMs. Além disso, containers compartil
 ## 📝 Artigos relacionados
 
 - [Home Lab Setup](link-dev-to)
-```
-
-O que acha? Quer ajustar alguma seção antes de subir?
