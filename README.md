@@ -22,15 +22,15 @@ Esse lab existe para preencher essa lacuna — um ambiente onde é possível que
 
 ## 🏗️ Arquitetura
 
-┌─────────────────┐         ┌──────────────────────┐
-│  Lenovo LOQ      │◄───────►│  Dell Inspiron         │
-│  Fedora 44/KDE   │ Tailscale│  Fedora Server        │
-│  (Analista)      │         │                        │
-└─────────────────┘         │  Docker + Compose      │
-                              │  └── Wazuh (Manager,   │
-                              │      Indexer,          │
-                              │      Dashboard)        │
-                              └──────────────────────┘
+┌─────────────────┐           ┌────────────────────┐
+│  Lenovo LOQ     │ ◄───────► │  Dell Inspiron     │
+│  Fedora 44/KDE  │ Tailscale │  Fedora Server     │
+│  (Analista)     │           │                    │
+└─────────────────┘           │  Docker + Compose  │
+                              │  └── Wazuh (Manager│
+                              │      Indexer,      │
+                              │      Dashboard)    │
+                              └────────────────────┘
 
 ## ⚙️ Stack
 
