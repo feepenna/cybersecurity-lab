@@ -20,10 +20,6 @@ Esse lab existe para preencher essa lacuna — um ambiente onde é possível que
 | RAM | 8GB (expansão planejada) |
 | Armazenamento | HD 1TB |
 
-## 🏗️ Arquitetura
-
-[Arquitetura do lab](cybersecurity-lab/diagrama_serverf.jpeg)
-
 ## ⚙️ Stack
 
 - **SO:** Fedora Server
