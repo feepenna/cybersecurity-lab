@@ -1,4 +1,4 @@
-# Cybersecurity Lab
+# Cybersecurity Lab - Home Lab
 Cybersecurity Lab dentro de casa - Fedora Server, Docker e Wazuh
 
 # 🔐 Cybersecurity Lab
@@ -13,12 +13,12 @@ Esse lab existe para preencher essa lacuna — um ambiente onde é possível que
 
 ## 🖥️ Hardware
 
-| Componente | Especificação |
-|-----------|---------------|
-| Modelo | Dell Inspiron |
-| CPU | Intel Core i5 7ª geração |
-| RAM | 8GB (expansão planejada) |
-| Armazenamento | HD 1TB |
+| Componente    | Especificação            |
+| ------------- | ------------------------ |
+| Modelo        | Dell Inspiron            |
+| CPU           | Intel Core i5 7ª geração |
+| RAM           | 8GB (expansão planejada) |
+| Armazenamento | HD 1TB                   |
 
 ## ⚙️ Stack
 
@@ -38,9 +38,9 @@ Hardware modesto não comporta múltiplas VMs. Além disso, containers compartil
 ,,,
 ## 📂 Documentação detalhada
 
-- [Setup Docker](docs/docker.md)
-- [Setup Tailscale](docs/tailscale.md)
-- [Setup Wazuh](docs/wazuh.md)
+- [Setup Docker]()
+- [Setup Tailscale]()
+- [Setup Wazuh]()
 
 ## 🚧 Status
 
