@@ -1,9 +1,9 @@
-# cybersecurity-lab
+# Cybersecurity Lab
 Cybersecurity Lab dentro de casa - Fedora Server, Docker e Wazuh
 
 # 🔐 Cybersecurity Lab
 
-Home lab de cibersegurança construído para aprendizado prático em Blue Team, DFIR e AppSec — com foco em entender sistemas de dentro pra fora, não apenas configurar ferramentas.
+Home lab de cibersegurança construído para aprendizado prático em Blue Team, IR e AppSec — com foco em entender sistemas de dentro pra fora, não apenas configurar ferramentas.
 
 ## 📖 Motivação
 
