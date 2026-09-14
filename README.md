@@ -53,4 +53,4 @@ Hardware modesto não comporta múltiplas VMs. Além disso, containers compartil
 
 ## 📝 Artigos relacionados
 
-- [Home Lab Setup](link-dev-to)
+- [Home Lab Setup](https://dev.to/zerotrust/cybersecurity-lab-home-lab-h99)
